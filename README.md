@@ -2,11 +2,21 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjN0eWw4dWdkbmVtbnFremZ3M3E2cjNlemR1a2c3dWd2eDM3a3NrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+</div>
+
+###
+
 <h2 align="left">👨‍💻 About Me</h2>
 
 ###
 
 <p align="left">Hello! I'm Anuj Dhunagna, a curious and ambitious individual currently pursuing my **BSc (Hons) in Computer Science**. <br><br>- 🎓 I’m exploring the world of software, from low-level systems to full-stack applications.<br>- 💻 I’ve built projects such as:<br>  - Budget-Tracking-a nextjs based web application for managing and tracking the budget.<br>  - 🐾 **PetPals** – a JSP/Servlet-based web application for pet adoption and management<br><br>- 🧠 I enjoy working with:<br>  - Full Stack Web Technologies (HTML, CSS, JavaScript, Node.js, MongoDB)<br> <br>- 🔍 Currently learning:<br>  - MERN Stack Development<br>  - Software Engineering Principles</p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
 
 ###
 
