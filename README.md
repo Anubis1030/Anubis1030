@@ -10,9 +10,6 @@
 
 ###
 
-<p align="left">Hello! I'm Anuj Dhunagna, a curious and ambitious individual currently pursuing my **BSc (Hons) in Computer Science**. <br><br>- 🎓 I’m exploring the world of software, from low-level systems to full-stack applications.<br>- 💻 I’ve built projects such as:<br>  - Budget-Tracking-a nextjs based web application for managing and tracking the budget.<br>  - 🐾 **PetPals** – a JSP/Servlet-based web application for pet adoption and management<br><br>- 🧠 I enjoy working with:<br>  - Full Stack Web Technologies (HTML, CSS, JavaScript, Node.js, MongoDB)<br> <br>- 🔍 Currently learning:<br>  - MERN Stack Development<br>  - Software Engineering Principles</p>
-
-###
 
 <h2 align="left">Tech Stack</h2>
 
